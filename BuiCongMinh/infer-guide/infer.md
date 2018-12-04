@@ -8,6 +8,9 @@ Mục lục:
 ## Installation
 
 - Với MacOS, có thể cài đặt thông qua [Homebrew](https://brew.sh/)
+```
+brew install infer
+```
 - Với Linux có thể cài đặt sử dụng file [binary](https://github.com/facebook/infer/releases/tag/v0.15.0)
 
 ## Infer Workflow
